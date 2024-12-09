@@ -75,12 +75,12 @@ Un script PowerShell offrant une interface graphique simulant un explorateur Win
 ## Utilisation
 
 1. **Exportation des dossiers :**
-   - Lancez `Export-Folders.ps1`.
+   - Lancez `export-data.ps1`.
    - Sélectionnez le dossier à explorer.
    - Choisissez l'emplacement pour enregistrer le fichier `.txt`.
 
 2. **Exploration des dossiers :**
-   - Lancez `Explore-Folders.ps1`.
+   - Lancez `read-data.ps1`.
    - Sélectionnez un fichier `.txt` contenant des chemins de dossiers.
    - Naviguez dans l'interface graphique.
 

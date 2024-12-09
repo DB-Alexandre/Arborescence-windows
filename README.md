@@ -4,7 +4,7 @@
 
 ## Description
 
-Ce dépôt contient deux scripts PowerShell pour gérer et explorer des dossiers, chacun offrant une interface graphique conviviale et des fonctionnalités utiles pour l'automatisation et la visualisation \:
+Ce dépôt contient deux scripts PowerShell pour gérer et explorer des dossiers, chacun offrant une interface graphique conviviale et des fonctionnalités utiles pour l'automatisation et la visualisation
 
 1. **Exportation des dossiers vers un fichier `.txt`** avec encodage UTF-8.
 2. **Exploration de dossiers simulée via une interface graphique** basée sur un fichier `.txt`.

@@ -53,8 +53,4 @@ Arborescence de C:\Example :
 - PowerShell 5.0 or higher
 - A Windows environment (may also work on other platforms with PowerShell Core)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
